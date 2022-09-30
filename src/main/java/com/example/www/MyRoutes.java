@@ -8,6 +8,7 @@ import org.apache.camel.cdi.Uri;
 
 /**
  * Configures all our Camel routes, components, endpoints and beans
+  This is demo webhook trigger
  */
 public class MyRoutes extends RouteBuilder {
 
